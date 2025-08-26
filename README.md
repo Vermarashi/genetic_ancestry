@@ -38,6 +38,7 @@ pandas, numpy, matplotlib, scikit-learn
 Bash (Linux/Mac) or WSL (Windows)
 
 #Usage
+
 1.Extract reference samples
 bash extract_ref_sample.sh reference.vcf.gz
 
