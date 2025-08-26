@@ -2,9 +2,11 @@
 You can tweak the wording depending on your exact pipeline.
 
 #Genetic Ancestry Analysis Workflow
+
 This repository contains scripts and resources for performing genetic ancestry analysis on cohort datasets (e.g., MECA participants). The workflow integrates preprocessing, reference sample extraction, and downstream analysis.
 
 #Repository Contents
+
 ##Scripts
 
 1. extract_ref_sample.sh
@@ -32,6 +34,7 @@ Mapping file linking population codes (e.g., YRI, CEU, CHB) to broader ancestry 
 Used for grouping individuals in PCA and ADMIXTURE plots.
 
 #Requirements
+
 PLINK 1.9+
 Python 3.8+ with common packages:
 pandas, numpy, matplotlib, scikit-learn
