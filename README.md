@@ -1,7 +1,3 @@
-
-##Here’s a draft README.md you can use for your GitHub repository. I’ve structured it so others can clearly understand what each uploaded file does and how to run your genetic ancestry workflow. 
-You can tweak the wording depending on your exact pipeline.
-
 #Genetic Ancestry Analysis Workflow
 
 This repository contains scripts and resources for performing genetic ancestry analysis on cohort datasets (e.g., MECA participants). The workflow integrates preprocessing, reference sample extraction, and downstream analysis.
